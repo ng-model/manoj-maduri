@@ -4,6 +4,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d241b005-d7e6-4ade-9783-6f181d5545c8/deploy-status)](https://app.netlify.com/sites/angryknuth/deploys)
 
+<img src="src/assets/ionic-app.png" alt="ionicApp">
 
 ## Getting Started
 
