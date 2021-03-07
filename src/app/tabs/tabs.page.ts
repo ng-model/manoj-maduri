@@ -6,9 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['tabs.page.scss']
 })
 export class TabsPage {
-tab1 = 'Sankata';
-tab2 = 'Hanuman';
-tab3 = 'Other';
+tab1 = 'సంకట స్తోత్రం';
+tab2 = 'హనుమాన్';
+tab3 = 'మృత్యుంజయ మంత్రం';
   constructor() {}
 
 }
